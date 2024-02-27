@@ -2,9 +2,9 @@
   💻<br>Portfólio - Bruno Sales
 </h1>
 
-![Resultado final do projeto](https://github.com/brunossaless/portfolio/blob/main/public/imagePrint.png)
+![Resultado final do projeto](https://github.com/brunossales/portfolio/blob/main/public/imagePrint.png)
 
-<h4 align="center"><a href="https://portfolio-brunossales.vercel.app/">Clique para visitar o projeto :)</a></h4>
+<h4 align="center"><a href="https://portfolio-brunossales.vercel.app/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 

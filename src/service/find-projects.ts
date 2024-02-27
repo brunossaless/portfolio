@@ -8,7 +8,7 @@ interface FindProjectsData {
 export const findRepos: FindProjectsData = async () => {
     try {
         const response = await api
-            .get('/users/brunossales/repos')
+            .get('/users/brunossaless/repos')
             .then((response) => {
                 return response.data;
             })

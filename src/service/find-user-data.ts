@@ -9,7 +9,7 @@ interface FindUserData {
 export const findUserData: FindUserData = async () => {
     try {
         const response = await api
-            .get('/users/brunossales')
+            .get('/users/brunossaless')
             .then((response) => {
                 return response.data;
             })
