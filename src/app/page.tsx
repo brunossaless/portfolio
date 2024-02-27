@@ -106,7 +106,7 @@ export default function Home() {
                     <IconLink.Link
                         label="Social Links"
                         className="underline decoration-solid pt-[3px] hover:text-cyan-300"
-                        href="https://brunossales.github.io/social-links/"
+                        href="https://brunossaless.github.io/social-links/"
                     />
                 </IconLink.Container>
 
@@ -130,7 +130,7 @@ export default function Home() {
                     <IconLink.Link
                         label="Github"
                         className="underline decoration-solid pt-[3px] hover:text-cyan-300"
-                        href="https://github.com/brunossales"
+                        href="https://github.com/brunossaless"
                     />
                 </IconLink.Container>
             </motion.div>
